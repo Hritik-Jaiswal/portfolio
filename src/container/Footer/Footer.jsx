@@ -46,10 +46,9 @@ const Footer = () => {
         </div>
         <div className="app__footer-card">
           <img src={images.mobile} alt="phone" />
-          <a href="tel:+918849180795" className="p-text">+918849180795</a>
+          <a href="tel:+918799601622" className="p-text">+918799601622</a>
         </div>
       </div>
-      
       {!isFormSubmitted ? (
         <div className="app__footer-form app__flex">
           <div className="app__flex">
